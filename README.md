@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advance data science and artificial intelligence course by learnbay**
 
-- 💬 Ask me about **python,data science,machine learning**
+- 💬 Ask me about **python,data science,machine learning,deep learning, Artificial Intelligence, advance ai**
 
 - 📫 How to reach me **sheshp2707@gmail.com**
 
