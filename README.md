@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/@_pawar_sheshraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_pawar_sheshraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sheshrajpawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheshrajpawar" height="30" width="40" /></a>
-<a href="https://instagram.com/s_h_e_s_h_ro_45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_h_e_s_h_ro_45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sheshp2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sheshp2707" height="30" width="40" /></a>
 </p>
 
