@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshrajpawar&label=Profile%20views&color=0e75b6&style=flat" alt="sheshrajpawar" /> </p>
 
-- 🌱 I’m currently learning **Advance data science and artificial intelligence course by learnbay**
+- 🌱 I’m currently working at **NavAdr as a Junior Data Engineer**
 
 - 💬 Ask me about **python,data science,machine learning,deep learning, Artificial Intelligence, Advance AI**
 
