@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshrajpawar&label=Profile%20views&color=0e75b6&style=flat" alt="sheshrajpawar" /> </p>
 
-- 🌱 I’m currently working at **NavAdr as a Junior Data Engineer**
+- 🌱 I’m currently working at **Askimo.ai as a Software Engineer in Artificial Intelligence Department**
 
 - 💬 Ask me about **python,data science,machine learning,deep learning, Artificial Intelligence, Advance AI**
 
